@@ -152,7 +152,7 @@
 --------------------------------------------------------------*/
         
         .header-social-links a {
-            color: #7b909a;
+            color: #000000;
             padding: 12px 0 12px 6px;
             display: inline-block;
             line-height: 1px;
@@ -189,12 +189,12 @@
         .nav-menu a {
             display: block;
             position: relative;
-            color: #7b909a;
+            color: #000000;
             padding: 10px 15px;
             transition: 0.3s;
             font-size: 15px;
             font-family: "Raleway", sans-serif;
-            font-weight: bold;
+            font-weight: 500;
         }
         
         .nav-menu a:hover,
@@ -434,7 +434,7 @@
         }
         
         #hero h2 {
-            color: #576971;
+            color: #000000;
             margin-bottom: 100px;
             font-size: 24px;
         }
@@ -600,12 +600,8 @@
 
 
         section {
-            padding: 60px 0;
+            padding: 30px 0;
             overflow: hidden;
-        }
-        
-        .section-bg {
-            background-color: #f7f8f9;
         }
         
         .section-title {
